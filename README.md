@@ -2,14 +2,16 @@
 
 # Hi, I'm Shuja Ul Hassan 👋
 
-**AI Agents & Full-Stack Developer** building AI agents, automation systems, and full-stack web apps from first principles.
-I take ideas from architecture to deployment — clean models, clean APIs, clean interfaces.
+**AI Agents & Full-Stack Developer** building autonomous agents, automation systems, and full-stack web apps from first principles.
+I turn ideas into shipped products — from model orchestration and retrieval pipelines to the interfaces people actually use.
 
 </div>
 
 ---
 
 ## Tech Stack & Skills
+
+*The tools I use to design, build, and ship intelligent systems end to end.*
 
 **AI & Computer Vision**
 
@@ -51,6 +53,8 @@ I take ideas from architecture to deployment — clean models, clean APIs, clean
 
 ## Featured Project
 
+*Where computer vision meets cricket coaching.*
+
 ### [BowlMetrics](https://github.com/shujaulhassan141/bowlmetrics)
 
 An open-source **Cricket Bowling Biomechanics Analysis App** that turns a bowling video into a frame-by-frame pose breakdown — skeleton overlay, joint-angle charts, kinematic phase analysis, and a plain-language coaching report.
@@ -62,6 +66,8 @@ An open-source **Cricket Bowling Biomechanics Analysis App** that turns a bowlin
 ---
 
 ## GitHub Stats
+
+*A snapshot of my open-source work and the languages I build with.*
 
 <div align="center">
 
